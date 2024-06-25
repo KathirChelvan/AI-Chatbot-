@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "AIzaSyCkC_rt82O1YZ14gTwaWr7a34nSiOAr-nA"
 PAGE_TITLE = "Chat with Kim"
 PAGE_ICON = ":robot:"
 MODEL_NAME = 'gemini-pro'
